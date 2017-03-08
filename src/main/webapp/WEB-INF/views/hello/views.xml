@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-defintions PUBLIC ".//Apache software Fondation//DTD Tiles Configurations 2.0//EN" 
+"http://tiles.Apache.org/dtds/tiles-config_2_0.dtd">
+<tiles-defintions>
+<definition name="hello_page" extends="defaultlayout"></definition>
+<put-attribute name="content" value="/WEB-INF/views/hello/index.jsp"></put-attribute>
+</tiles-defintions>
